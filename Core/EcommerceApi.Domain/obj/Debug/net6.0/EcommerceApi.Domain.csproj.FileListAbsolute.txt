@@ -1,0 +1,12 @@
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\bin\Debug\net6.0\EcommerceApi.Domain.deps.json
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\bin\Debug\net6.0\EcommerceApi.Domain.dll
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\bin\Debug\net6.0\EcommerceApi.Domain.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.AssemblyInfo.cs
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.dll
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\refint\EcommerceApi.Domain.dll
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\EcommerceApi.Domain.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Core\EcommerceApi.Domain\obj\Debug\net6.0\ref\EcommerceApi.Domain.dll

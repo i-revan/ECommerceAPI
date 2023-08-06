@@ -1,0 +1,17 @@
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Infrastructure.deps.json
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Infrastructure.dll
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Infrastructure.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Application.dll
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Domain.dll
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Application.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\bin\Debug\net6.0\EcommerceApi.Domain.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.csproj.CopyComplete
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.dll
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\refint\EcommerceApi.Infrastructure.dll
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\EcommerceApi.Infrastructure.pdb
+C:\Users\Revan\Desktop\EcommerceApi\Infrastructure\EcommerceApi.Infrastructure\obj\Debug\net6.0\ref\EcommerceApi.Infrastructure.dll
